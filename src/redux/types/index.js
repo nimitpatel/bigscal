@@ -1,0 +1,3 @@
+export const ADD_MEDICINE = 'ADD_MEDICINE'
+export const DELETE_MEDICINE = 'DELETE_MEDICINE'
+export const EDIT_MEDICINE = 'EDIT_MEDICINE'
